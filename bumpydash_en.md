@@ -8,7 +8,7 @@ permalink: /bumpydash_en.html
 Last updated: 11/2/2016
 Effective date: 11/2/2016
 
-BUMPY DASH (the "Game") is developed and operated by [Developer name, please fill in] ("we", "us"). We take your personal information and privacy seriously. This policy explains what information the Game processes while it runs, how that information is used, and what rights you have. Please read it carefully before playing. By starting the Game, you confirm that you have read and agree to this policy.
+BUMPY DASH (the "Game") is developed and operated by gamemaker ("we", "us"). We take your personal information and privacy seriously. This policy explains what information the Game processes while it runs, how that information is used, and what rights you have. Please read it carefully before playing. By starting the Game, you confirm that you have read and agree to this policy.
 
 ## 1. Information we collect and use
 
