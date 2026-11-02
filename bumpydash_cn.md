@@ -1,3 +1,8 @@
+---
+layout: null
+permalink: /bumpydash_cn.html
+---
+
 # 《弹球冲冲冲》隐私协议
 
 更新日期：2016/11/2
